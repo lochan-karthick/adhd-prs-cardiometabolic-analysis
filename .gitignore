@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Research data
+data/
+*.csv
+*.tsv
+*.parquet
+*.rds
+*.RData
+*.xlsx
+
+# Secrets and local files
+.env
+.DS_Store
+.Rhistory
+
+# Restricted research data
+data/
+*.dta
+*.csv
+*.tsv
+*.parquet
+*.xlsx
